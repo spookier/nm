@@ -1,5 +1,4 @@
 *.o
 *.so
 *.a
-binary
-README.md
+/nm/bin/ft_nm
